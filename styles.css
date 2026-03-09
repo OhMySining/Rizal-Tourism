@@ -222,3 +222,85 @@
 .townhistory {
     text-align: center;
 }
+.creatorinfo {
+    background-color: black;
+    color: white;
+    text-align: center;
+    padding: 20px;
+    margin-left: -8px;
+    margin-right: -8px;
+
+    letter-spacing: 1px;
+    word-spacing: 2px;
+    line-height: 25px;
+    h1 {
+        font-size: 25px;
+        margin-bottom: 0px;
+    }
+    .infocourse {
+        font-size: 15px;
+        margin-top: -15px;
+        margin-bottom: 20px;
+    }
+    p {
+        font-size: 20px;
+        margin-left: 65px;
+        margin-right: 65px;
+    }
+    img {
+        width: 200px;
+        height: 200px;
+        border-radius: 50%;
+        margin-bottom: 20px;
+    }
+}
+.creatorinformation {
+    margin-top: -40px;
+    display: flex;
+    color: black;
+    text-align: left;
+    padding: 100px;
+
+    letter-spacing: 1px;
+    word-spacing: 2px;
+    line-height: 25px;
+    h1 {
+        margin-bottom: 0px;
+    }
+    p {
+    }
+    img {
+        width: 300px;
+        height: 350px;
+        margin-left: 100px;
+    }
+}
+.moreabout {
+    margin-top: 35px;
+}
+.skills {
+    margin-top: -80px;
+    margin-bottom: 30px;
+    h1{
+        text-align: center;
+    }
+    .skillslogo {
+        display: flex;
+        justify-content: center;
+        align-items: center;
+        gap: 40px;
+        img {
+            width: 100px;
+            height: 100px;
+        }
+        p {
+            text-align: center;
+            color: black;
+        }
+        div {
+            padding: 20px;
+            border: 2px solid gray;
+            border-radius: 25px;
+        }
+    }
+}
