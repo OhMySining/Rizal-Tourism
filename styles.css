@@ -122,6 +122,10 @@
         height: 460px;
         width: 250px;
     }
+    hr {
+        margin-top: 40px;
+        margin-bottom: 30px;
+    }
 }
 .rizalcaptures {
     margin-top: 35px;
